@@ -12,4 +12,4 @@ If you do need any support feel free to hop on discord or make an issue through 
 Discord Server: https://discord.io/voxit
 My Personal Discord: SpecialStos#0001
 
-Don't forget to check out our Tebex store for resource you are able to purchase: voxit.tebex.io/
+Don't forget to check out our Tebex store for resource you are able to purchase: https://voxit.tebex.io/
