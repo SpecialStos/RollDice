@@ -2,7 +2,7 @@ fx_version 'bodacious'
 game 'gta5'
 
 name "RollDice"
-description "A roll dice system for FiveM."
+description "An optimised roll dice system for FiveM."
 author "SpecialStos"
 version "1.0.0"
 
