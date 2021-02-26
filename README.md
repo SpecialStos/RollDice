@@ -1,5 +1,5 @@
 # RollDice
-An optimised roll dice system for FiveM.
+An optimised and standalone RollDice system for FiveM.
 
 Hey there,
 
