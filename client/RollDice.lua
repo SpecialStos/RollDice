@@ -61,7 +61,7 @@ function ShowRoll(text, sourceId, maxDistance, location)
 	local coords = GetEntityCoords(globalPlayerPedId, false) --Gets client's current coords.
 	local dist = #(location - coords) --Finds the distance between the location of the current rolldice and client's current coords. THIS CHECKS FOR ALL X,Y,Z.
 
-	if dist < 15 then --If distance is smaller than 15 then trigger the code below.
+	if dist < RollDice.MaxDistance then --If distance is smaller than 15 then trigger the code below.
 		local display = true
 		
 		Citizen.CreateThread(function() --We use this citizen create thead because we want it to run simultaneously with the draw text 3d below. Normal function won't work. Either this method or trigger events.
